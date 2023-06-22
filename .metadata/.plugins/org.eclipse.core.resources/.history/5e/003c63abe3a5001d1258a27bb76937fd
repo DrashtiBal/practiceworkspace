@@ -1,0 +1,19 @@
+package com.Collection.Drashti;
+
+import java.util.LinkedList;
+
+public class LinkedListToArrayList {
+
+	
+	 //Write a program to convert LinkedList to ArrayList
+	
+	public static void main(String[] args) {
+		
+		LinkedList<String> ll=new LinkedList<String>();
+		list.add("drashti");
+		list.add("abc");
+		list.add("ggf");
+		list.add("deg");
+		list.add("bnh");
+		}
+}
